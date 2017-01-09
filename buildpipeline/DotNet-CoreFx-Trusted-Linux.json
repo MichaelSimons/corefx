@@ -404,7 +404,7 @@
   "demands": [
     "Agent.OS -equals linux"
   ],
- "retentionRules": [
+  "retentionRules": [
     {
       "branches": [
         "+refs/heads/*"
